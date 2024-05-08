@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    font-size: xx-large;
+}
+
+.centrar {
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    margin-top: 100px;
+}
+
+.calculadora {
+    width: 700px;
+    height: 620px;
+    margin-top: 50px;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 15px;
+    font-family: in;
+    font-size: 35px;
+    line-height: inherit;
+    padding-right: 40px;
+    padding-left: 36px;
+    background-color: black;
+    color: white;
+    --bs-border-opacity: 1;
+    border-color: rgba(var(--bs-primary-rgb), var(--bs-border-opacity)) !important;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+.boton0 {
+    width: 94%;
+    margin-left: 6%;
+}
+
+.fixing {
+    width: 74%;
+}
+
+.fixing2 {
+    padding-left: 40px;
+}
