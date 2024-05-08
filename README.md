@@ -6,7 +6,7 @@ https://proyecto-calculadora-qmmlm49vs-tony1406s-projects.vercel.app/
 
 ## Descripción
 
-Este proyecto es una demostración de cómo se pueden combinar HTML, CSS y JavaScript para crear una calculadora, la que permite realizar calculos con numeros naturales y decimales tales como:
+Este proyecto es una demostración de cómo se pueden combinar HTML, CSS, Bootstrap y JavaScript para crear una calculadora, la que permite realizar calculos con numeros naturales y decimales tales como:
 
 - Suma 
 - Resta
