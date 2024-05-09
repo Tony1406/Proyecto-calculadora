@@ -2,7 +2,7 @@
 
 Este es un proyecto de ejemplo que utiliza HTML, CSS, Bootstrap y JavaScript. Puedes ver la versión desplegada en Vercel a través del siguiente enlace:
 
-https://proyecto-calculadora-qmmlm49vs-tony1406s-projects.vercel.app/
+https://proyecto-calculadora-sigma.vercel.app/
 
 ## Descripción
 
